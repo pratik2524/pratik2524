@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**pratik2524/pratik2524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi Pratik here 👋
 
 - 🔭 I’m currently working on Machine learning projects
 - 🌱 I’m currently learning Deep Learning
