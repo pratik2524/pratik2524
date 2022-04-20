@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:Email ID: pratikmahadik2524@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cricket
--->
